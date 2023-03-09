@@ -1,0 +1,16 @@
+console.log("apple" === "apple");
+console.log("apple" === "orange");
+const fruit1 = "apple";
+const fruit2 = "orange";
+console.log(fruit1 === fruit2);
+const myAnswer = "act";
+const solution = "ace";
+console.log(myAnswer === solution);
+const myAnswer1 = "high";
+const solution1 = "low";
+console.log(myAnswer1 === solution1);
+const item1 = "deerstalker hat";
+const item2 = "pipe";
+const isDuplicate = item1 === item2;
+console.log(isDuplicate);
+console.log("liquid" === "solid");

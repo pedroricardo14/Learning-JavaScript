@@ -1,0 +1,18 @@
+console.log(250 <= 100);
+console.log(50 > 10);
+const result = 1 <= 15;
+console.log(result);
+const min = 5;
+const max = 10;
+const result1 = min <= max ;
+console.log(result1);
+const batteryLevel = 10;
+const low = batteryLevel <= 20;
+console.log("Low battery: " + low);
+const points = 12;
+const levelTwo = points >= 10;
+console.log("Level 2: " + levelTwo);
+const solved = 20;
+const minimum = 10;
+const lostStreak = solved <= minimum;
+console.log(lostStreak);

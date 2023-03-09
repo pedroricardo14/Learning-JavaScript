@@ -1,0 +1,15 @@
+console.log("apple" !== "orange");
+console.log("orange" !== "orange");
+const myAnswer = "act";
+const solution = "ace";
+console.log("orange" !== "yellow");
+console.log(myAnswer !== solution);
+const wallpaper = "bliss.png";
+console.log(wallpaper !== "bliss.png");
+const previousLeader = "Anna";
+const newLeader = "Jim";
+const leaderChanged = previousLeader !== newLeader;
+console.log(leaderChanged);
+const bigCity = "Tokyo";
+const smallCity = "Zurich";
+console.log(bigCity !== smallCity);
