@@ -1,0 +1,17 @@
+console.log("10" + "10");
+console.log(10 + 10);
+const result = "10" + 10;
+console.log(result);
+const result2 = 10 + "10";
+const result3 = "Your score: " + 99;
+console.log(result3);
+const score = 99;
+const result4 = "Your score: " + score;
+console.log(result4);
+const result5 = "You passed: " + true;
+console.log(result5);
+const pass = true;
+const result6 = "You passed: " + pass;
+console.log(result6);
+const fee = 8;
+console.log("Entry free: " + fee);
