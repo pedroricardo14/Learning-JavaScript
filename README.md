@@ -10,7 +10,7 @@
 <li>Comparing numbers</li>
 <li>Comparing strings</li>
 <li>Discovering Types</li>
-<li>logical operators<li>
+<li>logical operators</li>
 <li>Making decisions</li>
 <li>Using conditions</li>
 </ul>
