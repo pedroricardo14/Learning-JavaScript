@@ -13,6 +13,4 @@
 <li>logical operators</li>
 <li>Making decisions</li>
 <li>Using conditions</li>
-<li>Coding else statements</li>
-<li>incorporating else if</li>
 </ul>
