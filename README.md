@@ -15,4 +15,5 @@
 <li>Using conditions</li>
 <li>Coding else statements</li>
 <li>Incorporating else if</li>
+<li>Loops</li>
 </ul>
