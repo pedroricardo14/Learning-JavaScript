@@ -16,4 +16,5 @@
 <li>Coding else statements</li>
 <li>Incorporating else if</li>
 <li>Loops</li>
+<li>Arrays</li>
 </ul>
